@@ -114,3 +114,10 @@ via*.json
 
 # Keep firmware file
 !keyboards/keychron/*/firmware/*.bin
+
+
+
+# ======================================================
+# pb custom gitignore
+# ======================================================
+!/pb/**/*.bin
