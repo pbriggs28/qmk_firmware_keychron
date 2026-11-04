@@ -121,3 +121,6 @@ via*.json
 # pb custom gitignore
 # ======================================================
 !/pb/**/*.bin
+
+# Configurator source downloads: too big for GitHub (157 MB), kept local only
+/pb/**/*.zip
